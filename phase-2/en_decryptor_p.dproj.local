@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/07/14 17:26:00.007,=C:\home\waldo\.local\share\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/14 17:30:20.363,Y:\source\repos\glibg10b\it-pat-2021\phase-2\en_decryptor_u.dfm=C:\home\waldo\.local\share\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/07/14 17:30:20.363,Y:\source\repos\glibg10b\it-pat-2021\phase-2\en_decryptor_u.pas=C:\home\waldo\.local\share\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/14 17:30:28.491,Y:\source\repos\glibg10b\it-pat-2021\phase-2\en_decryptor_p.dproj=C:\home\waldo\.local\share\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
